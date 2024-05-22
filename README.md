@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Run in local
 
-1. `Download repo`
+1. `Download repo'
 2. `npm i`
 3. `npm start`
 
