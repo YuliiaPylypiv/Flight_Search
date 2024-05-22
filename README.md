@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview
 
-### `Home Page`
+### `Home Page`  
 
 ![flight_search](https://user-images.githubusercontent.com/53392598/110248795-d9c11b80-7f98-11eb-8ca8-84b4ae6e8406.png)
 
